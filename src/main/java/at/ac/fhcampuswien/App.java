@@ -15,15 +15,16 @@ public class App {
 
     //todo Task 2
     public void helloRobot(){
-        System.out.println("0123456789012345678901" + System.lineSeparator() +
-                "         __" + System.lineSeparator() +
-                "  _(\\    |@@|" + System.lineSeparator() +
-                "(\\___|----|  |   __" + System.lineSeparator() +
+        System.out.println( "0123456789012345678901");
+        System.out.print("         __" + System.lineSeparator() +
+                " _(\\    |@@|" + System.lineSeparator() +
+                "(__/\\__ \\--/ __" + System.lineSeparator() +
+                "   \\___|----|  |   __" + System.lineSeparator() +
                 "       \\ }{ /\\ )_ / _\\" + System.lineSeparator() +
                 "       /\\__/\\ \\__O (__" + System.lineSeparator() +
                 "      (--/\\--)    \\__/" + System.lineSeparator() +
                 "      _)(  )(_" + System.lineSeparator() +
-                "     `---''---`");
+                "     `---''---`" + System.lineSeparator());
         // input your solution here
     }
 
